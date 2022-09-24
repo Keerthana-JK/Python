@@ -1,1 +1,1 @@
-# Python
+This is a basic Python program to print "Hello Python"
